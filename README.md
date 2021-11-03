@@ -4,7 +4,7 @@ Version v2.0 is available here:
 https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains
 
 
-# PromKappa 1.0 makes Objective Digital Stains
+# Description
 PromKappa 1.0 is a complete application made in Visual Basic 6.0 (VB6) that generates Objective Digital Stains (aka DNA patterns). The main output of the application consists of a series of images that are saved in the 'chart' (or 'chart_comp') folder and which can be later analysed using different methods. Note that if you are familiar with python, then VB6 will come natural to you. Also note that once the application is started, the first step will be to load a FASTA file (the 'Homo sapiens (8515).txt') using the 'Open promoter file' button. In the PromKappa case the <a href="https://github.com/Gagniuc/PromKappa-1.0-makes-Objective-Digital-Stains/blob/main/Homo%20sapiens%20(8515).txt">Homo sapiens (8515).txt</a> contains a series of gene promoters, as the analysis of gene promoters was the main aim of this application.
 
 ![screenshot](https://github.com/Gagniuc/PromKappa-1.0-makes-Objective-Digital-Stains/blob/main/img/Prom%20Kappa%20(gene%20promoters%20in%20eukaryotes).gif.PNG)
