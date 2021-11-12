@@ -1,4 +1,4 @@
-# PromKappa 1.0 makes Objective Digital Stains
+# :dna: PromKappa 1.0 makes Objective Digital Stains
 
 Version v2.0 is available here:
 https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains
