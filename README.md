@@ -10,7 +10,7 @@ https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6
 
 <kbd>PromKappa 1.0</kbd> is a complete application made in <kbd>Visual Basic 6.0 (VB6)</kbd> that generates <kbd>Objective Digital Stains</kbd> (aka DNA patterns). The main output of the application consists of a series of images that are saved in the <kbd>chart</kbd> folder (or the <kbd>chart_comp</kbd> folder), which can be later analyzed using different methods. Note that if you are familiar with python, then <kbd>VB6</kbd> will come natural to you. Also, note that once the application is started, the first step will be to load a FASTA file (the <kbd>Homo sapiens (8515).txt</kbd>) using the <kbd>Open promoter file</kbd> button. In the PromKappa case the <a href="https://github.com/Gagniuc/PromKappa-1.0-makes-Objective-Digital-Stains/blob/main/Homo%20sapiens%20(8515).txt"><kbd>Homo sapiens (8515).txt</kbd></a> contains a series of gene promoters, as the analysis of gene promoters was the main aim of this application.
 
-![screenshot](https://github.com/Gagniuc/PromKappa-1.0-makes-Objective-Digital-Stains/blob/main/img/Prom%20Kappa%20(gene%20promoters%20in%20eukaryotes).gif.PNG)
+![screenshot](https://github.com/Gagniuc/PromKappa-1.0-makes-Objective-Digital-Stains/blob/main/img/Prom%20Kappa%20(gene%20promoters%20in%20eukaryotes).png?raw=true)
 
 The compiled version of PromKappa (<kbd>PromKappa.exe</kbd>) will ask for a dependency file called <kbd>msvbvm60.dll</kbd> and possibly other dependency files. These files are present in the <kbd>bin</kbd> folder. The following files are a complete set of dependencies that a regular VB6 app may require:
 
