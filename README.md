@@ -57,4 +57,3 @@ https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP
 - <i>Gagniuc P.A. and Ionescu-Tîrgovişte C. Gene promoters show chromosome specificity and reveal chromosome territories in humans, BMC Genomics 2013, 14:278.</i>
 
 - <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
-
